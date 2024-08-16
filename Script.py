@@ -134,10 +134,4 @@ Total - <code>{}</code>"""
 /my_plan - to check your plan details
 /plans - to get plan details</b>"""
 
-    SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
-
-- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/Rishikesh-Sharma09/Auto-Filter-Bot>ʜᴇʀᴇ</a>
-
-- ᴅᴇᴠʟᴏᴘᴇʀ - @Rkbotz"""
+    SOURCE_TXT = """<b>ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ☎️"""
