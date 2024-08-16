@@ -10,13 +10,13 @@ class script(object):
 
     MY_OWNER_TXT = """ᴜꜱᴇʀɴᴀᴍᴇ: @Rk_botowner"""
 
-    STATUS_TXT = """<b>╭━━━━━━━━❰sᴛᴀᴛᴜs ʙᴀʀ❱══❍⊱❁۪۪
-┣⪼𖨠 🗃️ ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
-┣⪼𖨠 👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
-┣⪼𖨠 ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
-┣⪼𖨠 ✨ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-┣⪼𖨠 🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
-┣⪼𖨠 🚀 ʙᴏᴛ ᴜᴩᴛɪᴍᴇ : <code>{}</code> 
+    STATUS_TXT = """<b>
+▸ 🗃️ ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
+▸ 👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
+▸ ♻️ ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
+▸ ✨ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code>
+▸ 🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code>
+▸ 🚀 ʙᴏᴛ ᴜᴩᴛɪᴍᴇ : <code>{}</code> 
 ╰━━━━━━━━━━━━━━━━══❍⊱❁۪۪</b>"""
 
     NEW_GROUP_TXT = """#NewGroup
@@ -26,20 +26,20 @@ Username - {}
 Total - <code>{}</code>"""
 
     NEW_USER_TXT = """#NewUser
-★ Name: {}
-★ ID: <code>{}</code>"""
+▸ Name: {}
+▸ ID: <code>{}</code>"""
 
     NO_RESULT_TXT = """#NoResult
-★ Group Name: {}
-★ Group ID: <code>{}</code>
-★ Name: {}
+▸ Group Name: {}
+▸ Group ID: <code>{}</code>
+▸ Name: {}
 
-★ Message: {}"""
+▸ Message: {}"""
 
     REQUEST_TXT = """★ Name: {}
-★ ID: <code>{}</code>
+▸ ID: <code>{}</code>
 
-★ Message: {}"""
+▸ Message: {}"""
 
     NOT_FILE_TXT = """👋 Hello {},
 
