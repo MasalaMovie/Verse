@@ -34,7 +34,7 @@ if len(BOT_TOKEN) == 0:
 PORT = int(environ.get('PORT', '80')) #don't change anything 
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://telegra.ph/file/58fef5cb458d5b29b0186.jpg https://telegra.ph/file/f0aa4f433132769f8970c.jpg https://telegra.ph/file/f515fbc2084592eca60a5.jpg https://telegra.ph/file/20dbdcffaa89bd3d09a74.jpg https://telegra.ph/file/6045ba953af4def846238.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/56381d1aa68e8670f34c6.jpg https://telegra.ph/file/6a3d8eab45a09104e8e2c.jpg https://telegra.ph/file/fc1a420492d62978267b3.jpg https://telegra.ph/file/186d1a1f1562cfda57bce.jpg https://telegra.ph/file/243c28093f885b47f8df2.jpg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '') #apni tg id daalo
@@ -76,11 +76,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/Rkbotzsupport')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/Rkbotz')
-FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/RkMovie_group')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/Rkbotz")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/Rkbotz")
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/masala_supports')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/wibimovie_requests')
+FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/wibimovie_requests')
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/How_To_Download_From_Wibi_Movies")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/How_To_Download_From_Wibi_Movies")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 3600)) # Add time in seconds 
