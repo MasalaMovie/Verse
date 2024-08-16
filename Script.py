@@ -8,7 +8,7 @@ class script(object):
 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ</a>
 ʟɪʙʀᴀʀʏ: <a href=https://pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>"""
 
-    MY_OWNER_TXT = """Username: @Rk_botowner"""
+    MY_OWNER_TXT = """ᴜꜱᴇʀɴᴀᴍᴇ: @Rk_botowner"""
 
     STATUS_TXT = """<b>╭━━━━━━━━❰sᴛᴀᴛᴜs ʙᴀʀ❱══❍⊱❁۪۪
 ┣⪼𖨠 🗃️ ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
