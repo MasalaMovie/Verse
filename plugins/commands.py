@@ -90,7 +90,7 @@ async def start(client, message):
         _, token = mc.split("_", 1)
         verify_status = await get_verify_status(message.from_user.id)
         if verify_status['verify_token'] != token:
-            return await message.reply("Your verify token is invalid.")
+            return await message.reply("ꜱᴏʀʀʏ, ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ᴛᴏᴋᴇɴ ɪꜱ ɪɴᴠᴀʟɪᴅ.")
         await update_verify_status(message.from_user.id, is_verified=True, verified_time=time.time())
         if verify_status["link"] == "":
             reply_markup = None
