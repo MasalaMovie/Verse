@@ -41,9 +41,9 @@ Total - <code>{}</code>"""
 
 ▸ Message: {}"""
 
-    NOT_FILE_TXT = """👋 Hello {},
+    NOT_FILE_TXT = """ꜱᴏʀʀʏ {},
 
-I can't find the <b>{}</b> in my database! 🥲
+<blockquote> ɪ ᴄᴀɴ'ᴛ ꜰɪɴᴅ <b>{}</b> ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ!! </blockquote>
 
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
