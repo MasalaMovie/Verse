@@ -147,18 +147,7 @@ Name - {} (<code>{}</code>)
 Request - <b>{}</b>"""
 
 
-    REQM = """**To request for a movie please pass movie details along with** /request **command.**\n**Example**: <code>/request Avengers 2019</code>"""
-
-    REQ_REPLY = """📍 **Your Request for** {} **has been submitted to the admins.**\n\n🚀 **Your Request Will Be Uploaded soon.**\n\n📌 **Please Note that Admins might be busy. So, this may take more time.**"""
-
-    REMADS_TEXT = """<b>Free</b>\nAds & no direct links.\n\n<b>Premium</b>\nDirect files & no creepy ads, faster response time, no waiting time, web download and web streaming. ({})\n\n<b>Plan Cost - \n₹29/Month, ₹149/6M & ₹279/Year </b>\nPrices may increase in the future."""
-
-    CNFRM_TEXT = """ **UPI** -\n     <code>iPrimeHub@axl</code>\n          (tap2copy) \n\n**To Confirm Payment Process, Please Send Your Transaction Screenshot Or Transaction ID To** <a href=https://t.me/lemx4>L E M O N</a>\n\n**Admin delays may occur, request refund if plan activation fails.**"""
-
-    # Refferal text
-    REFFERAL_TEXT = """
-**Here is your referral link:\n\n{}\n\nShare this link with your 5 friends and get 1 month premium access for free.**
-    """
+    
 
     # Terms & Conditions
     TERMS = """
