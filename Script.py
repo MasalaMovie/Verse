@@ -130,7 +130,7 @@ STAT_TXT ="""
 Total Files: <code>{}</code>
 Total Users: <code>{}</code>"""
 
-    REQ_TEXT  = """
+REQ_TEXT = """
 #NewRequest
 Bot - {}
 Name - {} (<code>{}</code>)
