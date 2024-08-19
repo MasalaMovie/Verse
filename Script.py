@@ -135,4 +135,3 @@ Total Users: <code>{}</code>"""
 Bot - {}
 Name - {} (<code>{}</code>)
 Request - <b>{}</b>"""
-
