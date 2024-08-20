@@ -85,7 +85,7 @@ Total - <code>{}</code>"""
 
     WELCOME_TEXT = """👋 Hello {mention}, Welcome to {title} group! 💞"""
 
-    HELP_TXT = """<b>Note - <blockquote>Try each command without any argument to see more details 😹</blockquote></b>"""
+    HELP_TXT = """<b>Note - <blockquote>ʙᴀꜱ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ ᴋᴏ ᴛᴏᴜᴄʜ ᴍᴀᴛ ᴋᴀʀɪʏᴏ</blockquote></b>"""
     
     ADMIN_COMMAND_TXT = """<b>Here is bot admin commands 👇
 
