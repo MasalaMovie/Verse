@@ -29,7 +29,7 @@ Total - <code>{}</code>"""
 ▸ Name: {}
 ▸ ID: <code>{}</code>"""
 
-    NO_RESULT_TXT = """#NoResult
+    NO_RESULT_TXT = """#NewGroup
 ▸ Group Name: {}
 ▸ Group ID: <code>{}</code>
 ▸ Name: {}
