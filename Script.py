@@ -129,9 +129,3 @@ Total - <code>{}</code>"""
 STAT_TXT ="""
 Total Files: <code>{}</code>
 Total Users: <code>{}</code>"""
-
-REQ_TEXT = """
-#NewRequest
-Bot - {}
-Name - {} (<code>{}</code>)
-Request - <b>{}</b>"""
